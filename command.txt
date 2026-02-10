@@ -1,0 +1,1 @@
+python3 generate_strudel_samples_json.py --root . --base github:tarajade12/samples --output strudel.json
